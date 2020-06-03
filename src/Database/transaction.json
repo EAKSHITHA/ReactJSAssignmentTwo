@@ -1,0 +1,47 @@
+[
+    {
+        "TransactionId" : 1,
+        "TransactionDateTime" : "11/07/2010",
+        "TransactionType" : "IN",
+        "AirportId" : 1,
+        "AircraftId" : 0,
+        "Quantity" : 5000,
+        "TransactionIdParent" : 0
+    },
+    {
+        "TransactionId" : 2,
+        "TransactionDateTime" : "12/07/2010",
+        "TransactionType" : "IN",
+        "AirportId" : 2,
+        "AircraftId" : 0,
+        "Quantity" : 6000,
+        "TransactionIdParent" : 0
+    },
+    {
+        "TransactionId" : 3,
+        "TransactionDateTime" : "13/07/2010",
+        "TransactionType" : "IN",
+        "AirportId" : 3,
+        "AircraftId" : 0,
+        "Quantity" : 7000,
+        "TransactionIdParent" : 0
+    },
+    {
+        "TransactionId" : 4,
+        "TransactionDateTime" : "14/07/2010",
+        "TransactionType" : "IN",
+        "AirportId" : 4,
+        "AircraftId" : 0,
+        "Quantity" : 10000,
+        "TransactionIdParent" : 0
+    },
+    {
+        "TransactionId" : 5,
+        "TransactionDateTime" : "15/07/2010",
+        "TransactionType" : "IN",
+        "AirportId" : 5,
+        "AircraftId" : 0,
+        "Quantity" : 8000,
+        "TransactionIdParent" : 0
+    }
+]

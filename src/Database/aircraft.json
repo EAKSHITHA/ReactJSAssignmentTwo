@@ -1,0 +1,27 @@
+[
+    {
+        "AircraftId" : 1,
+        "AircraftNumber" : "6E454",
+        "Airline" : "Indigo"
+    },
+    {
+        "AircraftId" : 2,
+        "AircraftNumber" : "6E984",
+        "Airline" : "Go Air"
+    },
+    {
+        "AircraftId" : 3,
+        "AircraftNumber" : "6E887",
+        "Airline" : "Spice Jet"
+    },
+    {
+        "AircraftId" : 4,
+        "AircraftNumber" : "6E376",
+        "Airline" : "Air India"
+    },
+    {
+        "AircraftId" : 5,
+        "AircraftNumber" : "5E867",
+        "Airline" : "Air Asia"
+    }
+]

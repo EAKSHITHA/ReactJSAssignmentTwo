@@ -1,0 +1,31 @@
+[
+    {
+        "AirportId" : 1,
+        "AirportName" : "Singerbhil Airport(IXA)",
+        "fuelCapacity" : 5000,
+        "fuelAvailable" : 5000
+    },
+    {
+        "AirportId" : 2,
+        "AirportName" : "Agatti Island Airport(AGX)",
+        "fuelCapacity" : 6000,
+        "fuelAvailable" : 6000
+    },
+    {
+        "AirportId" : 3,
+        "AirportName" : "Kheria Airport(AGR)",
+        "fuelCapacity" : 7000,
+        "fuelAvailable" : 7000
+    },{
+        "AirportId" : 4,
+        "AirportName" : "Ahmedabad Airport(AMD)",
+        "fuelCapacity" : 10000,
+        "fuelAvailable" : 10000
+    },
+    {
+        "AirportId" : 5,
+        "AirportName" : "Aizawl Airport(AJL)",
+        "fuelCapacity" : 8000,
+        "fuelAvailable" : 8000
+    }
+]
